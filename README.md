@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
   ## Github Stats
   <a href="https://github.com/ashokgarsulla">
-    <img align="center" alt="Mahesh Sawant Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashokgarsulla&show_icons=true&theme=tokyonight">
+    <img align="center" alt="Ashok kumar Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashokgarsulla&show_icons=true&theme=tokyonight">
   </a>
 </div>
 
