@@ -1,7 +1,13 @@
-### Hi there, I am Ashok Kumar!
+### Hi there, I am Ashok Kumar !
 
 ## I'm a Software Developer (Backend).
 <br>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/ashokgarsulla/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/ashokgarsulla/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/ashokgarsulla/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/ashokgarsulla/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/ashokgarsulla/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ashokgarsulla/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/ashokgarsulla/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ashokgarsulla/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
 <!--
 **ashokgarsulla/ashokgarsulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
