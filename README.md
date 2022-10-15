@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <i>
 <ul>
         <li>🔭 Django Development.</li>
-        <li>🤔 Areas of Intrest: Backend Development</li>
+        <li>🤔 Areas of Interest: Machine Learning, Deep Learning.</li>
         <li>💬 Ask me about anything.</li>
         <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/ashokgarsulla">LinkedIn</a>.</li>
         <li>⚡ Fun fact: I love to automate my tasks with programming.</li>
