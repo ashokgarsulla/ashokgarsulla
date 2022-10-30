@@ -23,7 +23,7 @@ Here are some ideas to get you started:
         <li>🔭 Django Development.</li>
         <li>🤔 Areas of Interest: Machine Learning, Deep Learning.</li>
         <li>💬 Ask me about anything.</li>
-        <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/ashokgarsulla">LinkedIn</a>.</li>
+        <li>📫 You can reach me via <a target="_blank" href="https://www.linkedin.com/in/ashok-kumar-59aab6140/">LinkedIn</a>.</li>
         <li>⚡ Fun fact: I love to automate my tasks with programming.</li>
 </ul>
 </i>
