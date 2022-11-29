@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 <i>
 <ul>
-        <li>🔭 Django Development.</li>
+        <li>🔭 3D Software Development.</li>
         <li>🤔 Areas of Interest: Machine Learning, Deep Learning.</li>
         <li>💬 Ask me about anything.</li>
         <li>📫 You can reach me via <a target="_blank" href="https://www.linkedin.com/in/ashok-kumar-59aab6140/">LinkedIn</a>.</li>
